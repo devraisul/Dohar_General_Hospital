@@ -1,0 +1,44 @@
+[
+	{
+		"id":1,
+		"name":"Orthodontics",
+		"img":"http://drsalmansdentalcentre.com/img/Orthodontics.jpg",
+		"details":"Dr.Salman earned his Bachelor’s of Dental Surgery degree from Baqai Dental School in Karachi in year 1995. He then joined the dental faculty of Baqai Dental College as Lecturer and taught at undergrad level for 2 years.",
+		"price":"268"
+	},
+	{
+		"id":2,
+		"name":"Endodontics",
+		"img":"http://drsalmansdentalcentre.com/img/Endodontics.jpg",
+		"details":"Dr. Wahab did his BDS from Baqai Dental School in year 2006 and joined Dr.Salman's Dental Centre in 2007. He received his certificate in Rotary Endodontics from AKUH in year 2009. He deals with general dentistry patients and has excellent clinical skills and diagnostic evaluation adeptness. He is a full time Consultant dental surgeon at DSDC and has been treating root canal patients with great success since last 10 years and has almost 99.99% success rate in Endodontics.",
+		"price":"338"
+	},
+	{
+		"id":3,
+		"name":"Dental Implants",
+		"img":"http://drsalmansdentalcentre.com/img/Dental%20Implants.jpg",
+		"details":"Dr. Talal did his BDS from Baqai Dental College in 2011 & joined OMFS dept. Of the college in 2013 as a clinical instructor. He did c. Implant in 2015 from academy of orofacial aesthetics & c.endo from BDC in 2016. He has recently joined Dr.Salman’s Dental Centre as a full time associate dental surgeon & deals with general dentistry patients.",
+		"price":"1328"
+	},
+	{
+		"id":4,
+		"name":"Zirconium Crowns",
+		"img":"http://drsalmansdentalcentre.com/img/Zirconium%20crowns.jpg",
+		"details":"Dr. Ainul Haq did his BDS from Baqai Dental College in year 2000. He did his c.endo in year 2011 & c.med in 2015. He is also the head in department of medical education Baqai Dental College. He has joined Dr.Salman’s Dental Centre as an associate dentist in evening clinics at Gulshan e Iqbal branch.",
+		"price":"4268"
+	},
+	{
+		"id":5,
+		"name":"Teeth Whitening",
+		"img":"http://drsalmansdentalcentre.com/img/Professional%20Cleaning.jpg",
+		"details":"Dr. Talha joined DSDC in year 2004 as a visiting Consultant operative dentist. He is also a graduate of Baqai Dental College in year 1995 and is currently serving as Vice Principal of BDC. He has done his MCPS in Operative from CPSP Pakistan.",
+		"price":"2268"
+	},
+	{
+		"id":6,
+		"name":"Composite Fillings",
+		"img":"http://drsalmansdentalcentre.com/img/Composite%20fillings.jpg",
+		"details":"He joined DSDC in year 2011 as a visiting Oral Maxillo Facial surgeon.He is a graduate of Baqai Dental College and did his FCPS in Oral Surgery from CPSP Pakistan. He is also an Associate Professor in Oral Surgery at BDC.",
+		"price":"268"
+	}
+]
